@@ -43,7 +43,7 @@
   },
   {
     "remote": "github",
-    "account": "androidarmv6",
+    "account": "Mm7",
     "repository": "android_device_mdpi-common",
     "target_path": "device/mdpi-common",
     "revision": "cm-10.2"
