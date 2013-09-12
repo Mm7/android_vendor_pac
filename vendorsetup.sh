@@ -33,6 +33,7 @@ add_lunch_combo pac_zeus-userdebug
 add_lunch_combo pac_captivatemtd-userdebug
 add_lunch_combo pac_fascinatemtd-userdebug
 add_lunch_combo pac_galaxysmtd-userdebug
+add_lunch_combo pac_galaxysl-userdebug
 add_lunch_combo pac_i777-userdebug
 add_lunch_combo pac_i9100-userdebug
 add_lunch_combo pac_i9103-userdebug
@@ -74,6 +75,7 @@ add_lunch_combo pac_runnymede-userdebug
 # HTC 2013
 add_lunch_combo pac_fireball-userdebug
 add_lunch_combo pac_jewel-userdebug
+add_lunch_combo pac_dlx-userbebug
 add_lunch_combo pac_endeavoru-userdebug
 add_lunch_combo pac_enrc2b-userdebug
 add_lunch_combo pac_evita-userdebug
