@@ -37,13 +37,13 @@
   <device name="edison" priority="10" />
 <!--  <device name="endeavoru" priority="10" /> -->
 <!--  <device name="enrc2b" priority="10" /> -->
-  <device name="epicmtd" priority="10" />
+<!-- device name="epicmtd" priority="10" /> -->
   <device name="evita" priority="10" />
-<!--  <device name="fascinatemtd" priority="10" /> -->
+  <device name="fascinatemtd" priority="10" />
 <!--  <device name="find5" priority="10" /> -->
   <device name="fireball" priority="10" />
   <device name="flo" priority="10" />
-<!--  <device name="galaxysl" priority="10" /> -->
+  <device name="galaxysl" priority="10" />
   <device name="galaxysmtd" priority="10" />
   <device name="grouper" priority="10" />
 <!--  <device name="haida" priority="10" /> -->
@@ -72,6 +72,7 @@
   <device name="jfltevzw" priority="10" />
   <device name="jfltexx" priority="10" />
   <device name="l900" priority="10" />
+  <device name="ls970" priority="10" />
   <device name="m7att" priority="10" />
   <device name="m7spr" priority="10" />
   <device name="m7tmo" priority="10" />
@@ -85,6 +86,8 @@
   <device name="mint" priority="10" />
   <device name="n7000" priority="10" />
   <device name="n7100" priority="10" />
+  <device name="n8000" priority="10" />
+  <device name="n8013" priority="10" />
   <device name="odin" priority="10" />
   <device name="otter" priority="10" />
   <device name="otter2" priority="10" />
@@ -108,6 +111,7 @@
 <!--  <device name="smultron" priority="10" /> -->
 <!--  <device name="solana" priority="10" /> -->
   <device name="spyder" priority="10" />
+  <device name="steelhead" priority="10" />
 <!--  <device name="su640" priority="10" /> -->
   <device name="t0lte" priority="10" />
   <device name="t0ltetmo" priority="10" />
@@ -116,6 +120,7 @@
 <!--  <device name="tf201" priority="10" /> -->
 <!--  <device name="tilapia" priority="10" /> -->
   <device name="toro" priority="10" />
+  <device name="toroplus" priority="10" />
 <!--  <device name="toroplus" priority="10" /> -->
 <!--  <device name="tsubasa" priority="10" /> -->
   <device name="umts_spyder" priority="10" />

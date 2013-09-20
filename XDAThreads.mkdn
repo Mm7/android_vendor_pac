@@ -10,9 +10,10 @@
 <a href="http://forum.xda-developers.com/showthread.php?t=2306365">Droid Razr HD (Verizon):    vanquish        Bkjolly</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2306377">Droid Razr M (Verizon):    scorpionmini    timpohladthomas</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2301493">Droid Razr (Verizon):    	spyder          surdu_petru</a>
-<a href="http://forum.xda-developers.com/showthread.php?t=2176569">Epic 4G:                    epicmtd         C457</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=2176569">Epic 4G:                    epicmtd         Unjustifed Dev.</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2050948">Epic 4G Touch (Sprint):     d710            Sniper</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2141573">Evo LTE:                    jewel           jamieg71</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=2197171">Galaxy S I Fascinate:          fascinatemtd         Unjustifed Dev.</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2268850">Find5:                      find5           apascual89</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=1978991">Galaxy Nexus:               maguro          Grarak</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2306416">Galaxy Nexus:               toro            Bkjolly</a>
@@ -20,17 +21,20 @@
 <a href="http://forum.xda-developers.com/showthread.php?t=2248298">Galaxy Note:                n7000           beerbong</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2417967">Galaxy Note (AT&T):                quincyatt       AD5GB</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2430367">Galaxy Note (T-Mobile):                quincytmo       AD5GB</a>
-<a href="http://forum.xda-developers.com/showthread.php?t=1992386">Galaxy Note 2 (GSM/LTE):               n7100/t0lte           abhisahara, Owain94</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=1992386">Galaxy Note 2 (GSM):               n7100           abhisahara, Owain94</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=2449424">Galaxy Note 2 (LTE):               t0lte           UtkarshGupta</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2403899">Galaxy Note 2 (AT&T):       	t0lteatt           BLOWNCO</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2326862">Galaxy Note 2 (Sprint):     l900            BLOWNCO</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2426051">Galaxy Note 2 (T-Mobile):  	t0ltetmo        UtkarshGupta</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2311152">Galaxy Note 2 (Verizon):   	i605            gchild320</a>
+<a href="http://forum.xda-developers.com/showthread.php?p=45625962">Galaxy Note 10.1:   	N8000/N8013            pimpmaneaton</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2387504">Galaxy Player 4.0:          ypg1            goldflame09, iurnait, zaclimon</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2387504">Galaxy Player 5.0:          venturi         iurnait</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=1982756">Galaxy R:                   i9103           Grarak</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2170768">Galaxy S I:                 galaxysmtd    	aways</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2435945">Galaxy S LCD:                 galaxysl    	UtkarshGupta</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2173726">Galaxy S I Captivate:       captivatemtd 	Nick0703</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=2447478">Galaxy S I Plus:       ariesve 	krislibaeer</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2203444">Galaxy S II:                i9100           bluefa1con</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=1957348">Galaxy S II:                i9100G          bluefa1con</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2178402">Galaxy S II LTE (AT&T):    	skyrocket       gs2usr</a>
@@ -70,6 +74,7 @@
 <a href="http://forum.xda-developers.com/showthread.php?t=2203239">Nexus 7 3G:                 Tilapia          Bkjolly</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2408829">Nexus 7 (2013):             Flo             apascual89, zaclimon</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2214360">Nexus 10:                   manta           apascual89</a>
+<a href="http://rootzwiki.com/topic/102545-romofficial43pac-man-rom/">Nexus Q:                    steelhead          manelscout4life</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2190031">Nexus S:                    crespo          berni987654321</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2348590">One (AT&T):              	m7att           apascual89</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2348415">One (GSM):               	m7ul            MaDc0w</a>
@@ -101,4 +106,5 @@
 <a href="http://forum.xda-developers.com/showthread.php?p=38249397">LG P990 Optimus 2x:                  p990            MetaIIica</a>
 <a href="http://forum.xda-developers.com/showthread.php?t=2418933">LG e610 Optimus L5:                  e610            bart452, herna</a>
 <a href="http://www.modaco.com/topic/364229-devromunofficial43pac-man-rom-v43build-1-10-09-13/">Blade3:                  atlaas40            robt77a</a>
+<a href="http://forum.xda-developers.com/showthread.php?t=2442316">LG-ls970 Optimus G (Sprint):         ls970           Spleef</a>
 </div>

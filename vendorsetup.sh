@@ -1,3 +1,5 @@
+# Nexus Q
+add_lunch_combo pac_steelhead-userdebug
 # Oppo 2013
 add_lunch_combo pac_find5-userdebug
 # Xperia 2013
@@ -115,12 +117,15 @@ add_lunch_combo pac_t0lte-userdebug
 add_lunch_combo pac_t0ltetmo-userdebug
 add_lunch_combo pac_n7000-userdebug
 add_lunch_combo pac_n7100-userdebug
+add_lunch_combo pac_n8000-userdebug
+add_lunch_combo pac_n8013-userdebug
 add_lunch_combo pac_quincyatt-userdebug
 add_lunch_combo pac_quincytmo-userdebug
 add_lunch_combo pac_venturi-userdebug
 add_lunch_combo pac_ypg1-userdebug
 # Samsung & LGE Legacy Devices
 add_lunch_combo pac_ancora-userdebug
+add_lunch_combo pac_ariesve-userdebug
 add_lunch_combo pac_gio-userdebug
 add_lunch_combo pac_cooper-userdebug
 add_lunch_combo pac_p500-userdebug
@@ -134,6 +139,7 @@ add_lunch_combo pac_primoc-userdebug
 add_lunch_combo pac_primou-userdebug
 # LGE
 add_lunch_combo pac_e975-userdebug
+add_lunch_combo pac_ls970-userdebug
 add_lunch_combo pac_p760-userdebug
 add_lunch_combo pac_p880-userdebug
 add_lunch_combo pac_p930-userdebug
