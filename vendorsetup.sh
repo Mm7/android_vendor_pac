@@ -113,7 +113,9 @@ add_lunch_combo pac_jflteusc-userdebug
 add_lunch_combo pac_jfltevzw-userdebug
 add_lunch_combo pac_jfltexx-userdebug
 add_lunch_combo pac_l900-userdebug
+add_lunch_combo pac_r950-userdebug
 add_lunch_combo pac_t0lte-userdebug
+add_lunch_combo pac_t0lteatt-userdebug
 add_lunch_combo pac_t0ltetmo-userdebug
 add_lunch_combo pac_n7000-userdebug
 add_lunch_combo pac_n7100-userdebug

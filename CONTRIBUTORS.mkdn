@@ -177,10 +177,12 @@ Samsung:
 * __Galaxy Note (n7000) :__ beerbong
 * __Galaxy Note (quincyatt) :__ AD5GB
 * __Galaxy Note (quincytmo) :__ AD5GB
+* __Galaxy Note 2 (AT&T) (t0lteatt) :__ UtkarshGupta
 * __Galaxy Note 2 (GSM) (n7100) :__ abhisahara, Owain94
 * __Galaxy Note 2 (LTE) (t0lte) :__ UtkarshGupta
 * __Galaxy Note 2 (Sprint) (l900) :__ BLOWNCO
 * __Galaxy Note 2 (T-Mobile) (t0ltetmo) :__ UtkarshGupta
+* __Galaxy Note 2 (US Cellular) (r950) :__ UtkarshGupta
 * __Galaxy Note 2 (Verizon) (i605) :__ gchild320
 * __Galaxy Note 10.1 (N8000) :__ pimpmaneaton
 * __Galaxy Note 10.1 (N8013) :__ pimpmaneaton
@@ -221,7 +223,7 @@ Samsung:
 * __Galaxy Tab 10' (p7100) :__ BLOWNCO
 * __Galaxy Tab 2 7' (p3100/P3110) :__ Nick0703
 * __Galaxy Tab 2 10' (p5100/P5110) :__ BLOWNCO, pvyParts
-* __Galaxy W (i8150) :__ percy_g2
+* __Galaxy W (i8150) :__ krislibaeer
 * __Nexus S (crespo) :__ berni987654321
 * __Nexus 10 (manta) :__ apascual89
 
@@ -238,7 +240,7 @@ Sony
 * __Xperia U (kumquat) :__ percy_g2
 * __Xperia V (tsubasa) :__ djpbx
 * __Xperia Z (yuga) :__ jeroenqui, pvyParts
-* __Xperia ZL (odin) :__ mithun46
+* __Xperia ZL (odin) :__ havanahjoe
 
 
 Sony Ericsson:

@@ -69,7 +69,8 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/common
 ### PARANOID ###
 # PARANOID Packages
 PRODUCT_PACKAGES += \
-    HALO
+    HALO \
+    Focal
 
 # ParanoidAndroid Overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/pa/overlay/common
@@ -108,7 +109,7 @@ CM_BUILD := $(BOARD)
 # Add PA release version
 PA_VERSION_MAJOR = 3
 PA_VERSION_MINOR = 9
-PA_VERSION_MAINTENANCE = 9
+PA_VERSION_MAINTENANCE = 9-RC2
 PA_PREF_REVISION = 1
 VERSION := $(PA_VERSION_MAJOR).$(PA_VERSION_MINOR)$(PA_VERSION_MAINTENANCE)
 PA_VERSION := pa_$(BOARD)-$(VERSION)-$(shell date +%0d%^b%Y-%H%M%S)
