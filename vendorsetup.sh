@@ -86,6 +86,7 @@ add_lunch_combo pac_m7ul-userdebug
 add_lunch_combo pac_m7att-userdebug
 add_lunch_combo pac_m7tmo-userdebug
 add_lunch_combo pac_m7spr-userdebug
+add_lunch_combo pac_m7vzw-userdebug
 # Samsung 2010
 add_lunch_combo pac_epicmtd-userdebug
 # Samsung 2013
@@ -117,6 +118,7 @@ add_lunch_combo pac_r950-userdebug
 add_lunch_combo pac_t0lte-userdebug
 add_lunch_combo pac_t0lteatt-userdebug
 add_lunch_combo pac_t0ltetmo-userdebug
+add_lunch_combo pac_n5110-userdebug
 add_lunch_combo pac_n7000-userdebug
 add_lunch_combo pac_n7100-userdebug
 add_lunch_combo pac_n8000-userdebug
@@ -172,6 +174,7 @@ add_lunch_combo pac_jem-userdebug
 # HTC-legacy
 add_lunch_combo pac_marvel-userdebug
 add_lunch_combo pac_villec2-userdebug
+add_lunch_combo pac_pico-userdebug
 # Huawei
 add_lunch_combo pac_u8800pro-userdebug
 # ZTE
