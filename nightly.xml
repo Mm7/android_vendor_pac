@@ -34,7 +34,7 @@
   <device name="edison" priority="10" />
 <!-- device name="endeavoru" priority="10" -->
 <!-- device name="enrc2b" priority="10" -->
-<!-- device name="epicmtd" priority="10" /> -->
+  <device name="epicmtd" priority="10" />
   <device name="evita" priority="10" />
   <device name="exhilarate" priority="10" />
   <device name="fascinatemtd" priority="10" />
@@ -113,7 +113,7 @@
   <device name="t0ltetmo" priority="10" />
   <device name="targa" priority="10" />
   <device name="tate" priority="10" />
-<!--  <device name="tf201" priority="10" /> -->
+  <device name="tf201" priority="10" />
   <device name="tf300t" priority="10" />
   <device name="tf700t" priority="10" />
 <!--  <device name="tilapia" priority="10" /> -->
