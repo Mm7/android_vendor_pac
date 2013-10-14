@@ -3,6 +3,8 @@ add_lunch_combo pac_steelhead-userdebug
 # Oppo 2013
 add_lunch_combo pac_find5-userdebug
 # Xperia 2013
+##Board: Rhine
+add_lunch_combo pac_honami-userdebug
 ##Board: Fusion3
 add_lunch_combo pac_yuga-userdebug
 add_lunch_combo pac_odin-userdebug
@@ -177,6 +179,7 @@ add_lunch_combo pac_marvel-userdebug
 add_lunch_combo pac_villec2-userdebug
 add_lunch_combo pac_pico-userdebug
 # Huawei
+add_lunch_combo pac_u8860-userdebug
 add_lunch_combo pac_u8800pro-userdebug
 # ZTE
 add_lunch_combo pac_atlas40-userdebug
